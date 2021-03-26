@@ -105,6 +105,18 @@ StyleCopReport.xml
 ***.manifest
 000.testlog
 testlog.manifest
+.suo
+*.suo
+**.suo
+***.suo
+TestExecution.json
+*TestExecution.json
+**TestExecution.json
+***TestExecution.json
+nunit_random_seed.tmp
+*nunit_random_seed.tmp
+**nunit_random_seed.tmp
+***nunit_random_seed.tmp
 
 # Chutzpah Test files
 _Chutzpah*
