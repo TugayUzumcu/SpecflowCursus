@@ -117,6 +117,10 @@ nunit_random_seed.tmp
 *nunit_random_seed.tmp
 **nunit_random_seed.tmp
 ***nunit_random_seed.tmp
+csprojAssemblyReference.cache
+*csprojAssemblyReference.cache
+**csprojAssemblyReference.cache
+***csprojAssemblyReference.cache
 
 # Chutzpah Test files
 _Chutzpah*
