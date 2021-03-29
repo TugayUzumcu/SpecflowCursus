@@ -117,10 +117,6 @@ nunit_random_seed.tmp
 *nunit_random_seed.tmp
 **nunit_random_seed.tmp
 ***nunit_random_seed.tmp
-chromedriver.exe
-*chromedriver.exe
-**chromedriver.exe
-***chromedirver.exe
 
 # Chutzpah Test files
 _Chutzpah*
