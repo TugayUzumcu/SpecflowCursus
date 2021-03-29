@@ -45,4 +45,3 @@ C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csproj.Cor
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csproj.CopyComplete
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.exe
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.pdb
-C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csprojAssemblyReference.cache

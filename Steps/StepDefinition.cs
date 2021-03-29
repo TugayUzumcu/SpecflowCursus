@@ -17,10 +17,6 @@ namespace SpecflowCursus.Steps
         HomePage homePage = new HomePage(driver);
         ReisplannerPage reisplannerPage = new ReisplannerPage(driver);
 
-        
-
-
-
 
     }
 }
