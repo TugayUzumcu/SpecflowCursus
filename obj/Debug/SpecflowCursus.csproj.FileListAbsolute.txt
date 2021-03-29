@@ -40,7 +40,6 @@ C:\Users\tuzinli\source\repos\SpecflowCursus\bin\Debug\TechTalk.SpecFlow.NUnit.S
 C:\Users\tuzinli\source\repos\SpecflowCursus\bin\Debug\Utf8Json.xml
 C:\Users\tuzinli\source\repos\SpecflowCursus\bin\Debug\WebDriver.xml
 C:\Users\tuzinli\source\repos\SpecflowCursus\bin\Debug\WebDriver.Support.xml
-C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csprojAssemblyReference.cache
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.exe.config
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csproj.CoreCompileInputs.cache
 C:\Users\tuzinli\source\repos\SpecflowCursus\obj\Debug\SpecflowCursus.csproj.CopyComplete
